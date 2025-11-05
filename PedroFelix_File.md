@@ -1,0 +1,1 @@
+Ficheiro criado para teste.
